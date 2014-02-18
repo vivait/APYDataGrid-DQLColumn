@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "apy/datagrid-bundle": "2.2.x-dev",
+        "apy/datagrid-bundle": "2.2.x-dev"
     },
     "autoload": {
         "psr-0": {
