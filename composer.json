@@ -1,0 +1,21 @@
+{
+    "name": "vivait/apydatagrid-dqlcolumn",
+    "description": "An extension for APYDataGridBundle that enables raw DQL columns",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Lewis Wright",
+            "email": "lewis@vivait.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "apy/datagrid-bundle": "2.2.x-dev",
+    },
+    "autoload": {
+        "psr-0": {
+            "Vivait\\APYDataGridBundle": ""
+        }
+    },
+    "target-dir": "Vivait/APYDataGridBundle"
+}
