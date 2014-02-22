@@ -15,9 +15,6 @@ namespace Vivait\APYDataGridBundle\Grid\Source;
 use APY\DataGridBundle\Grid\Column\Column;
 use APY\DataGridBundle\Grid\Rows;
 use APY\DataGridBundle\Grid\Row;
-use APY\DataGridBundle\Grid\Source\Source;
-use Doctrine\ORM\Query;
-use Symfony\Component\HttpKernel\Kernel;
 use Viva\BravoBundle\Grid\Column\DQLColumn;
 
 class Entity extends \APY\DataGridBundle\Grid\Source\Entity
