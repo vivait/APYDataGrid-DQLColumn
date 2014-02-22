@@ -2,6 +2,8 @@
 
 namespace Vivait\APYDataGridBundle\Grid\Column;
 
+use APY\DataGridBundle\Grid\Filter;
+
 class DQLColumn extends \APY\DataGridBundle\Grid\Column\TextColumn
 {
 	protected $dql;
