@@ -8,9 +8,10 @@
             "email": "lewis@vivait.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
-        "apy/datagrid-bundle": "2.2.x-dev"
+        "apy/datagrid-bundle": "~2.2"
     },
     "autoload": {
         "psr-0": {
